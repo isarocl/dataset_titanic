@@ -1,4 +1,4 @@
-# Dataset Titanic
+# Projeto Titanic: Machine Learning from Disaster
 
 
 Este projeto tem como objetivo reproduzir o desafio de Data Science (Ciência de Dados) do Titanic: Machine Learning from Disaster, uma das competições de Machine Learning mais conhecidas dos cientistas de dados, promovida pelo site Kaggle. No desafio é preciso prever quais passageiros sobreviveram ao naufrágio do navio Titanic que afundou no meio do Atlântico em 15/04/1912, matando 1502 dos 2224 passageiros.
